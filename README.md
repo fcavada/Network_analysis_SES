@@ -1,5 +1,7 @@
 # Network_analysis_SES
 
+When using this data please cite: Cavada-Blanco, Francoise (2021), Los Roques benefits from coral reefs SEN, Dataset.
+
 Using a mixed-method approach,  a socio ecological network (SEN) was built from the flow of economic benefits that stakeholders obtain from coral reefs in Los Roques National Park. This dataset contains the nodes, links and weights used to analysed the topography and structure of the SEN to inform management.
 
 Methods
